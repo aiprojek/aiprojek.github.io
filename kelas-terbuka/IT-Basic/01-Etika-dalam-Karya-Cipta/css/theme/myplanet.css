@@ -589,6 +589,7 @@ html {
   .reveal .slides section .content-item {
     align-self: center;
     grid-area: content; 
+    font-size:1.2rem;
     line-height: 1em;
     width: 85%;}  
    .reveal .slides section .content-footer {
