@@ -589,13 +589,11 @@ html {
   .reveal .slides section .content-item {
     align-self: center;
     grid-area: content; 
-    font-size: 1.3em;
-    line-height: 1.3em;
+    line-height: 1em;
     width: 85%;}  
    .reveal .slides section .content-footer {
     align-self: center;
     grid-area: content; 
-    font-size: 1.3em;
     text-align: center;
     line-height: 1.3em;}
   .reveal .slides section.color--dark .section {
